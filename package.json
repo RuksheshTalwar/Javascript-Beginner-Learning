@@ -1,0 +1,22 @@
+{
+  "name": "js-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuksheshTalwar/js-assessment.git"
+  },
+  "author": "Rukshesh Talwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuksheshTalwar/js-assessment/issues"
+  },
+  "homepage": "https://github.com/RuksheshTalwar/js-assessment#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
